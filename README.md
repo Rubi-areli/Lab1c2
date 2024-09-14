@@ -15,4 +15,4 @@ Para ejecutar los ejercicios, es necesario instalar las dependencias mencionadas
 Para instalarlas, ejecuta el siguiente comando en la terminal:
 
 ```bash
-pip install -r requirements.txt
+pip install -r REQUIREMENTS.txt
