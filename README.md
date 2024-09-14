@@ -12,7 +12,3 @@ Este repositorio contiene los ejercicios realizados para lab1 de  Python, incluy
 
 Para ejecutar los ejercicios, es necesario instalar las dependencias mencionadas en el archivo `REQUIREMENTS.txt`.
 
-Para instalarlas, ejecuta el siguiente comando en la terminal:
-
-```bash
-pip install -r REQUIREMENTS.txt
